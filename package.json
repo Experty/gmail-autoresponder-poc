@@ -24,14 +24,10 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
-    "@types/gapi": "0.0.39",
-    "@types/gapi.auth2": "0.0.52",
-    "gapi": "0.0.3",
-    "gapi-script": "^1.0.2",
+    "gmail-autoresponder": "0.0.2",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2",
-    "gmail-autoresponder": "../gmail-autoresponder"
+    "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.8",
